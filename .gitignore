@@ -8,7 +8,6 @@ Release/
 *.dll
 *.pdb
 *.obj
-*.bin
 
 # Visual Studio files
 *.user
