@@ -1,2 +1,2 @@
 # MobilityManagementSystem-EDA-IPCA
-Sistema de gestão de mobilidade elétrica desenvolvido em C, integrando listas ligadas, grafos, cálculos geográficos e persistência em ficheiros binários. Projeto realizado no âmbito de Estruturas de Dados e Algoritmos (1.º ano).
+Projeto académico desenvolvido em C que implementa um sistema de gestão de mobilidade elétrica. Inclui gestão de clientes, veículos e alugueres, estruturação dos dados com listas ligadas, representação de pontos e caminhos através de um grafo, cálculo de distâncias geográficas e persistência em ficheiros binários. Desenvolvido na unidade curricular de Estruturas de Dados e Algoritmos.
