@@ -1,0 +1,19 @@
+# Build folders
+x64/
+Debug/
+Release/
+
+# Binary files
+*.exe
+*.dll
+*.pdb
+*.obj
+*.bin
+
+# Visual Studio files
+*.user
+*.log
+
+# Others
+*.cache
+*.tmp
