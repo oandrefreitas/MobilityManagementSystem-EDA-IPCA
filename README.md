@@ -1,18 +1,22 @@
 # MobilityManagementSystem-EDA-IPCA
-Projeto académico desenvolvido na unidade curricular Análise e Modelação de Software (AMS), focado na modelação de uma plataforma de serviços de manutenção residencial. Inclui levantamento de requisitos, documentação técnica e aplicação da metodologia Scrum.
+Projeto académico desenvolvido em C que implementa um sistema de gestão de mobilidade elétrica. Inclui gestão de clientes, veículos e alugueres, estruturação dos dados com listas ligadas, representação de pontos e caminhos através de um grafo, cálculo de distâncias geográficas e persistência em ficheiros binários. Desenvolvido na unidade curricular de Estruturas de Dados e Algoritmos.
 
-## Funcionalidades principais
+##Funcionalidades principais
 
-* Levantamento e especificação de requisitos funcionais e não funcionais.
+* Gestão de clientes, veículos, alugueres e pontos de recolha.
 
-* Elaboração de user stories, acceptance criteria e product backlog.
+* Estruturação dos dados através de listas ligadas (clientes, veículos, alugueres e grafo).
 
-* Planeamento de sprints utilizando a metodologia Scrum.
+* Implementação de um grafo não orientado, representando cidades/pontos de recolha e distâncias entre eles.
 
-* Criação de diagramas UML: casos de uso, classes, estados e sequência.
+* Cálculo de distâncias geográficas utilizando a Fórmula de Haversine.
 
-* Modelação de processos com BPMN.
+* Registo e edição de entidades com persistência em ficheiros:
 
-* Desenvolvimento de mockups da interface do utilizador.
+* .bin para clientes, alugueres, vértices e arestas
 
-* Compilação da documentação final em PDF
+* .txt para veículos
+
+* Autenticação simples de utilizadores (gestor e cliente).
+
+* Sistema de menus interativo em modo consola
